@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # https://wokwi.com/projects/429323824546668545
-  title:        ""      # FIRST PROJECT
-  author:       ""      # Asef Demo
+  wokwi_id:     429323824546668545
+  title:        "FIRST PROJECT" 
+  author:       "Asef Demo"
   discord:      ""      # Asef's discord
-  description:  ""      # FIRST DESIGN TO TURN ON LED
+  description:  "FIRST DESIGN TO TURN ON LED"  
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
